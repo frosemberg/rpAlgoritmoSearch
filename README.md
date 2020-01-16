@@ -4,6 +4,7 @@ Implementación Algoritmo Búsqueda -> BFS , DFS y A* . Aplicado al ambito geogr
 Institución Superior : Universidad Politécnica Salesiana
 
 Carrera Pregrado : Ing. Sistemas Mención Gestión de la información
+
 Información Docente : Ing. Jofre León V., Msc.
 
 Materia : Inteligencia Artificial I
